@@ -1,0 +1,1 @@
+from .coinminer import CoinMiner
